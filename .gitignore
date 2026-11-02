@@ -1,0 +1,17 @@
+# Hasil kompilasi
+out/
+target/
+build/
+*.class
+
+# Pengaturan IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Berkas sistem operasi
+.DS_Store
+Thumbs.db
